@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d-rodin.
-- 👀 I’m interested in networking, SysAdmin, IoT, Linux, scripting & programming.
-- 🌱 I’m currently learning Networking, Python, Perl, AWK, and UNIX SysAdmin.
+- 👀 I’m interested in Networking, SysAdmin, IoT, Linux, scripting & programming.
+- 🌱 I’m currently learning Networking, Linux SysAdmin, InfoSec and Python.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me: right here!
 
